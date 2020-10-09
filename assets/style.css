@@ -46,13 +46,14 @@ body{
     color:rgb(0, 225, 255);
     text-decoration: none;
     font-size: 40px;
-    transition: all ease-in-out 250ms;
+    transition: all ease-in-out 300ms;
   }
   .box li a:hover{
     color: #ff0000;
   }
   .link{
     color:rgb(0, 225, 255);
+    transition: all ease-in-out 300ms;
   }
   .link:hover{
     color: #ff0000;
