@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ankur-kumar-gupta.github.io
+Token: 11b9729ac1d9b2081da2fbb8b637489330374020221ed04071810693cdbba7f5
